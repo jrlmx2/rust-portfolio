@@ -1,7 +1,0 @@
-[package]
-name = "indicators"
-version = "0.1.0"
-authors = ["James Lemieux <jlemieux@signalinc.com>"]
-edition = "2018"
-
-[dependencies]
